@@ -1,3 +1,49 @@
+#Learning
+
+07-24-23 4:30am - Hover over a component and get the link to learn more.
+
+Learned Component Stack - Using it in a row at minute 25 of code along
+Stack Documentation - https://mui.com/material-ui/react-stack/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
